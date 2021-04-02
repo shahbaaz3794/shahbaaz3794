@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shahbaaz3794
-- 👀 I’m interested in ...reactjs and react native
-- 🌱 I’m currently learning ...reactjs and react native
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...React Js, Firebase, React Native projects
+- 💞️ I’m looking to collaborate on ...React Projetcs
 - 📫 How to reach me ...email me on shahbaaz.ahmad3794@gmail.com
 
 <!---
